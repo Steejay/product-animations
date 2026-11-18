@@ -1,3 +1,3 @@
-# Email assets
+# Product animations
 
-Images hosted for email campaigns.
+Product animations for emails and marketing, served with GitHub Pages.
